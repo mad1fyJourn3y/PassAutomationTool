@@ -21,11 +21,11 @@ Before running the tool, ensure you have the following installed:
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/passwordautomationtool.git
+   git clone https://github.com/yourusername/PassAutomationTool.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd passwordautomationtool
+   cd PassAutomationTool
    ```
 3. Install dependencies:
    ```bash
@@ -71,7 +71,7 @@ For any issues or inquiries, feel free to reach out via email: [ninitekali@gmail
 
 ---
 
-**Author:** Seif Abdelrahman Emam Askar  
+**Author:** mad1fy
 GitHub: [mad1fyjourn3y](https://github.com/mad1fyjourn3y)  
 Instagram: [mad1fy_](https://instagram.com/mad1fy_)  
 TikTok: [mad1fy_](https://tiktok.com/@mad1fy_)
