@@ -1,0 +1,4 @@
+pynput
+pandas
+pyperclip
+pyautogui
